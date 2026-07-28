@@ -1,13 +1,15 @@
 # Coffee_Shop_Sales_Analysis
-☕ Coffee Sales Analysis Dashboard using Microsoft Excel
+
+## Coffee Sales Analysis Dashboard using Microsoft Excel
+
 An interactive Excel dashboard that analyzes coffee sales performance, customer behavior, and product trends to help business stakeholders make data-driven decisions.
 
-📌 Project Overview
+## Project Overview
 
 This project analyzes coffee sales data using Microsoft Excel. The objective is to transform raw transactional data into meaningful business insights through data cleaning, Pivot Tables, Pivot Charts, Slicers, and an interactive dashboard.
 The dashboard enables users to explore sales trends, identify top-performing products, understand customer purchasing behavior, and monitor regional performance.
 
-🎯 Problem Statement
+## Problem Statement
 
 Coffee businesses often collect large amounts of sales data but struggle to extract actionable insights.
 This project answers questions such as:
@@ -17,7 +19,7 @@ Which regions contribute the highest sales?
 How do sales change over time?
 Which product categories perform best?
 
-📂 Dataset
+## Dataset
 
 The dataset contains coffee sales transactions including:
 
@@ -35,7 +37,7 @@ Loyalty Card Status
 (replace with actual data)
 
 
-🛠 Tools & Technologies
+## Tools & Technologies
 
 Microsoft Excel
 Pivot Tables
@@ -47,7 +49,7 @@ Excel Dashboard
 Data Cleaning
 Sorting & Filtering
 
-📊 Methods
+## Methods
 
 The project followed these steps:
 1. Data Cleaning
@@ -73,7 +75,7 @@ Pivot Charts
 Slicers
 Timeline Filters
 
-💡 Key Insights
+## Key Insights
 
 (Replace these with insights from your dashboard.)
 
@@ -86,7 +88,7 @@ Sales peaked during holiday seasons.
 Medium Roast was the most popular roast level.
 The top 10 customers contributed a significant portion of total revenue.
 
-📈 Dashboard Output
+## Dashboard Output
 
 <img width="1343" height="640" alt="Coffee_Dashboard" src="https://github.com/user-attachments/assets/8f7ba3c3-6d13-4519-8275-6fa72dd36888" />
 
@@ -101,7 +103,7 @@ Roast Type
 Size
 Explore the interactive dashboard.
 
-✅ Results & Conclusion
+## Results & Conclusion
 
 The Excel dashboard successfully transforms raw coffee sales data into an interactive business intelligence report.
 The dashboard enables stakeholders to:
@@ -111,7 +113,7 @@ Understand customer purchasing behavior
 Compare regional performance
 Support business decision-making
 
-📁 Repository Structure
+## Repository Structure
 
 Coffee-Sales-Analysis/
 │
@@ -125,7 +127,8 @@ Coffee-Sales-Analysis/
     └── coffee_data.csv (optional)
 
 
-📬 Author & Contact
+## Author & Contact
 
 LinkedIn: linkedin.com/in/nimishatripathy
+
 Email: n.tripathy200@gmail.com
