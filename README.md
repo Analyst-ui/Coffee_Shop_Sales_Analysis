@@ -1,13 +1,16 @@
 # Coffee_Shop_Sales_Analysis
 
+
 ## Coffee Sales Analysis Dashboard using Microsoft Excel
 
 An interactive Excel dashboard that analyzes coffee sales performance, customer behavior, and product trends to help business stakeholders make data-driven decisions.
+
 
 ## Project Overview
 
 This project analyzes coffee sales data using Microsoft Excel. The objective is to transform raw transactional data into meaningful business insights through data cleaning, Pivot Tables, Pivot Charts, Slicers, and an interactive dashboard.
 The dashboard enables users to explore sales trends, identify top-performing products, understand customer purchasing behavior, and monitor regional performance.
+
 
 ## Problem Statement
 
@@ -19,61 +22,43 @@ Which regions contribute the highest sales?
 How do sales change over time?
 Which product categories perform best?
 
+
 ## Dataset
 
-The dataset contains coffee sales transactions including:
-
-Order Date
-Customer Name
-Product
-Coffee Type
-Roast Type
-Size
-Quantity
-Unit Price
-Sales
-Country
-Loyalty Card Status
-(replace with actual data)
+The dataset contains coffee sales transactions as Coffee_Shop_Sales_Data.xlsx
 
 
 ## Tools & Technologies
 
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Timeline Filter
-Conditional Formatting
-Excel Dashboard
-Data Cleaning
-Sorting & Filtering
+Microsoft Excel(KPI Cards, Pivot Charts, Slicers, Timeline Filters)
+
 
 ## Methods
 
 The project followed these steps:
-1. Data Cleaning
+#### 1. Data Cleaning
 Removed duplicates
 Checked missing values
 Corrected inconsistent formatting
 Standardized data types
-2. Data Preparation
+#### 2. Data Preparation
 Created calculated fields
 Organized data into structured tables
 Formatted dates and currency
-3. Exploratory Data Analysis (EDA)
+#### 3. Exploratory Data Analysis (EDA)
 Used Pivot Tables to analyze:
 Sales by Month
 Sales by Country
 Sales by Coffee Type
 Top Customers
 Product Performance
-4. Dashboard Development
+#### 4. Dashboard Development
 Created an interactive dashboard using:
 KPI Cards
 Pivot Charts
 Slicers
 Timeline Filters
+
 
 ## Key Insights
 
@@ -92,16 +77,21 @@ The top 10 customers contributed a significant portion of total revenue.
 
 <img width="1343" height="640" alt="Coffee_Dashboard" src="https://github.com/user-attachments/assets/8f7ba3c3-6d13-4519-8275-6fa72dd36888" />
 
-▶️ How to Run This Project
-Download the repository.
-Open CoffeeAnalysis.xlsx using Microsoft Excel (2019 or Microsoft 365 recommended).
-Enable Editing.
-Use the slicers to filter:
-Country
-Coffee Type
-Roast Type
-Size
-Explore the interactive dashboard.
+## How to Run This Project
+
+1.Download the repository.
+
+2.Open CoffeeAnalysis.xlsx using Microsoft Excel (2019 or Microsoft 365 recommended).
+
+3.Enable Editing.
+
+4.Use the slicers to filter:
+-Country
+-Coffee Type
+-Roast Type
+-Size
+
+5.Explore the interactive dashboard.
 
 ## Results & Conclusion
 
