@@ -93,7 +93,7 @@ Created an interactive dashboard using:
 
 ##### Business Insights:
 
--Sales are highest on weekdays. Peak sales occur during morning (8 AM–11 AM).
+-Sales are highest on weekdays. Peak sales occur during morning (7 AM–10 AM).
 
 -The busiest sales periods occur during the morning commute. Customer traffic is significantly lower during late evening hours.
 
