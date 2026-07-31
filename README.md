@@ -161,6 +161,8 @@ The dashboard enables to:
 
 ## Author & Contact
 
+#### Nimisha Tripathy
+
 LinkedIn: linkedin.com/in/nimishatripathy
 
 Email: n.tripathy200@gmail.com
